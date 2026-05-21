@@ -1,6 +1,8 @@
 # Vulnerability Assessment Report
 
+
 ## Website Tested
+
 
 | Field | Information |
 |---|---|
@@ -8,7 +10,21 @@
 | **URL** | https://public-firing-range.appspot.com/ |
 | **Type** | Publicly accessible web application designed for web security testing and scanner evaluation |
 
+
+## Scope
+
+
+- **Included within assessment boundaries:** Browser-side security inspection, HTTP response header analysis, passive vulnerability identification, exposed service enumeration, and publicly accessible web resources
+
+- **Excluded from assessment boundaries:** Vulnerability exploitation, authentication bypass attempts, credential attacks, denial-of-service activities, and intrusive interaction with backend infrastructure
+
+- **Assessment technique:** Non-intrusive and read-only security evaluation performed without modifying application data, disrupting services, or executing malicious payloads
+
+- **Assessment framework:** Security review conducted using ethical passive reconnaissance practices and OWASP-aligned web security assessment principles
+
+
 ## Tools Used
+
 
 | Tool | Function |
 |---|---|
